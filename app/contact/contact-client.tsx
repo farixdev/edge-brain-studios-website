@@ -82,7 +82,7 @@ export default function ContactClient() {
             <div className="relative mt-10 border-t border-white/10 pt-6">
               <p className="text-[0.68rem] font-semibold uppercase tracking-[0.35em] text-muted-foreground">Follow us</p>
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/edgebrainstudios/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="EdgeBrain Studios on Instagram"
