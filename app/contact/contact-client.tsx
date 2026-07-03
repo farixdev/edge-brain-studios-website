@@ -5,8 +5,9 @@ import { ContactForm } from '@/components/contact/contact-form'
 import { motion } from 'framer-motion'
 
 const channels = [
-  { icon: Phone, label: 'Phone', value: '+92 327 0944766', href: 'tel:+923270944766' },
+  { icon: Phone, label: 'Phone', value: '+44 7931 830111', href: 'tel:+447931830111' },
   { icon: Mail, label: 'Email', value: 'edgebrainstudios@gmail.com', href: 'mailto:edgebrainstudios@gmail.com' },
+  { icon: Instagram, label: 'Instagram', value: '@edgebrainstudios', href: 'https://www.instagram.com/edgebrainstudios/' }
 
 ]
 
