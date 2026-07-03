@@ -7,7 +7,7 @@ import { motion } from 'framer-motion'
 const channels = [
   { icon: Phone, label: 'Phone', value: '+92 327 0944766', href: 'tel:+923270944766' },
   { icon: Mail, label: 'Email', value: 'edgebrainstudios@gmail.com', href: 'mailto:edgebrainstudios@gmail.com' },
-  { icon: MapPin, label: 'Location', value: 'Pakistan 🇵🇰' },
+
 ]
 
 export default function ContactClient() {
